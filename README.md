@@ -14,7 +14,7 @@ I am not `responsible` for the possibility of an account being `banned`!
 
 ## 📎 Node cli version Script features
 
-- Auto quest (full eco & full pharse)
+- Auto quest (full 20 ecosystem & full pharse)
 - Auto task
 - Auto checkin
 - Auto claim reward
