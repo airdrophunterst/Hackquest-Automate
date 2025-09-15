@@ -6,6 +6,8 @@ Link: [https://www.hackquest.io](https://www.hackquest.io?type=email-check&invit
 
 Full source: https://amautomarket.com/products/hack-quest-automate
 
+![image](image.png)
+
 ## 🚨 Attention Before Running Cli Version
 
 I am not `responsible` for the possibility of an account being `banned`!
