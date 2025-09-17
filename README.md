@@ -16,6 +16,7 @@ I am not `responsible` for the possibility of an account being `banned`!
 
 - Auto quest (full 20 ecosystem & full pharse)
 - Auto task
+- Auto create pet and feed pet
 - Auto checkin
 - Auto claim reward
 - Auto reff
